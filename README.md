@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jacobwechuli
 - 👀 I’m a Web developer
-- 🌱 I’m currently learning Ruby on Rails
+- 🌱 I’m an Application Developer
 - 💞️ I’m looking to collaborate on projects
 
 
