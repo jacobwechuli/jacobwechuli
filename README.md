@@ -1,13 +1,11 @@
-# Hi there, I'm Jacob Wechuli! 👋
+# Hi there, I'm Jacob Wechuli! 
 
-## 💻 About Me
-I'm a **Telecommunication and Information Engineering** student passionate about **software development**. My expertise lies in **Java Spring Boot**, microservices, and backend development, but I'm also expanding my skills in **React, Node.js, and Next.js** to become a full-stack developer.
-
-## 🚀 What I Do
-- 🏦 **Integration Engineer** | Working in banking IT solutions, focusing on APIs and microservices.
-- 🔥 **Backend Specialist** | Skilled in **Java Spring Boot**, WebClient, SOAP APIs, and microservices architecture.
-- 📈 **Tech Enthusiast** | Currently learning **React and Next.js** to build modern web applications.
-- 🎯 **Problem Solver** | Passionate about system design, scalability, and optimization.
+## About Me
+I'm a **Telecommunication and Information Engineering** student passionate about **software development**. 
+##  What I Do
+- Working in banking IT solutions, focusing on APIs and microservices.
+- Skilled in **Java Spring Boot**, WebClient, SOAP APIs, and microservices architecture.
+- Passionate about system design, scalability, and optimization.
 
 
 
