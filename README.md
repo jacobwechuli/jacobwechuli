@@ -1,24 +1,36 @@
-# Hi there, I'm Jacob Wechuli! 
+# Hi there, I'm Jacob Wechuli 👋
 
-## About Me
-I'm a **Telecommunication and Information Engineering** student passionate about **software development**. 
-##  What I Do
-- Working in banking IT solutions, focusing on APIs and microservices.
-- Skilled in **Java Spring Boot**, WebClient, SOAP APIs, and microservices architecture.
-- Passionate about system design, scalability, and optimization.
+## 🚀 About Me  
+I'm a Telecommunication and Information Engineering student with a passion for software development and systems design. I specialize in building scalable, backend-driven solutions that solve real-world problems.
 
+## 🧠 What I Do  
+- 🏦 Working in Banking IT Solutions, focusing on APIs and microservices  
+- ⚙️ Skilled in Java Spring Boot, WebClient, SOAP APIs, and microservices architecture  
+- 📱 Building cross-platform apps with Flutter  
+- ☁️ Experienced in deploying applications using cloud infrastructure tools (Docker, Nginx, GitHub Actions, Linux servers)  
+- 🧱 Passionate about system design, performance optimization, and clean architecture  
+- 📚 Continuously learning and improving my craft  
 
+## 🛠 Tech Stack & Tools  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-## 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/jacobwechuli)
-- 🐦 [X](https://x.com/wechulijacob) 
-- 📧 [Email](wechulijac@gmail.com) 
+## 📂 Featured Projects  
+- 🏥 **PharmaPlus** – A procurement automation system for pharmacies, with role-based access (Branch Manager, Accountant, Distributor, Admin) and inventory tracking  
+  🔗 [View Repo](https://github.com/jacobwechuli/PharmaPlus)
 
+- 🌾 **Agri-Fintech** – A digital finance platform tailored for farmers, combining loan tracking, cooperative management, and market insights  
+  🔗 [View Repo](https://github.com/jacobwechuli/agri-fintech)
 
-<!--- ![jacobwechuli's Stats](https://github-readme-stats.vercel.app/api?username=jacobwechuli&theme=prussian&show_icons=true&hide_border=false&count_private=true) -->
+- 🚪 **API Gateway with Dynamic Routing** – A powerful gateway system built with Spring Boot that supports dynamic routing, load balancing, and centralized authentication  
+  🔗 [View Repo](https://github.com/jacobwechuli/API-Gateway)
 
-
-<!---
-jacobwechuli/jacobwechuli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 Let's Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR-HANDLE)
