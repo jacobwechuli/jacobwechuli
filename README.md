@@ -15,7 +15,7 @@ I'm a **Telecommunication and Information Engineering** student passionate about
 - 📧 [Email](wechulijac@gmail.com) 
 
 
-- ![jacobwechuli's Stats](https://github-readme-stats.vercel.app/api?username=jacobwechuli&theme=prussian&show_icons=true&hide_border=false&count_private=true)
+<!--- ![jacobwechuli's Stats](https://github-readme-stats.vercel.app/api?username=jacobwechuli&theme=prussian&show_icons=true&hide_border=false&count_private=true) -->
 
 
 <!---
