@@ -1,13 +1,13 @@
 # Hi there, I'm Jacob Wechuli 👋
 
 ## 🚀 About Me  
-I'm a Telecommunication and Information Engineering student with a passion for software development and systems design. I specialize in building scalable, backend-driven solutions that solve real-world problems.
+I'm a Telecommunication and Information Engineer majoring in software development and systems design. I specialize in building scalable, backend-driven solutions that solve real-world problems.
 
 ## 🧠 What I Do  
 - 🏦 Working in Banking IT Solutions, focusing on APIs and microservices  
 - ⚙️ Skilled in Java Spring Boot, WebClient, SOAP APIs, and microservices architecture  
 - 📱 Building cross-platform apps with Flutter  
-- ☁️ Experienced in deploying applications using cloud infrastructure tools (Docker, Nginx, GitHub Actions, Linux servers)  
+- ☁️ Experienced in deploying applications using cloud infrastructure (Docker, Nginx, GitHub Actions, Railway, AWS, Azure)  
 - 🧱 Passionate about system design, performance optimization, and clean architecture  
 - 📚 Continuously learning and improving my craft  
 
@@ -19,6 +19,9 @@ I'm a Telecommunication and Information Engineering student with a passion for s
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white)
 
 ## 📂 Featured Projects  
 - 🏥 **PharmaPlus** – A procurement automation system for pharmacies, with role-based access (Branch Manager, Accountant, Distributor, Admin) and inventory tracking  
@@ -31,6 +34,6 @@ I'm a Telecommunication and Information Engineering student with a passion for s
   🔗 [View Repo](https://github.com/jacobwechuli/API-Gateway)
 
 ## 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jacobjwechuli)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wechulijac@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wechulijacob)
