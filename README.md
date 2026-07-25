@@ -1,21 +1,13 @@
 # Hi, I'm Jacob Wechuli 👋
 
-**AI Engineer · Software Engineer · Automation**
-Turning ideas into intelligent systems.
+**AI Engineer · Software Engineer · Automation . Cloud Engineer** 
+
 
 ---
 
 ## About Me
 
 Telecommunication and Information Engineer with a background in backend and systems design, now focused on applied AI — building RAG pipelines, LLM-integrated applications, and intelligent automation. Currently working in Banking IT, shipping APIs and microservices in production.
-
-## What I Do
-
-- 🤖 Building AI-powered applications — RAG systems, LLM integrations, and agentic workflows
-- 🏦 Banking IT Solutions — designing and maintaining APIs & microservices in production
-- ⚙️ Backend systems in Java (Spring Boot), with SOAP/REST API and microservices architecture
-- 📱 Cross-platform apps with Flutter
-- ☁️ Cloud deployment — Docker, GitHub Actions, AWS, Azure, Railway
 
 ## Tech Stack & Tools
 
