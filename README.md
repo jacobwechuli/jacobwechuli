@@ -35,7 +35,7 @@ Telecommunication and Information Engineer with a background in backend and syst
 - **Agents and Workflows** — OpenAI
 - **AI-Powered Document Insights & Data Extraction** — Pfizer Advanced Externship
 - **Vision Language Models (VLM) Bootcamp** — OpenCV University
-- **Introduction to Generative AI** — AWS Educate
+- **AI Practitioner** - AWS
 
 ## 📂 Featured Projects
 
